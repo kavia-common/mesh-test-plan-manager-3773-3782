@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/mesh-test-plan-manager-3773-3782/frontend_mesh_test_plan"
+}
